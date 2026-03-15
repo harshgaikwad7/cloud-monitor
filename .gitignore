@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pkl
+*.pyc
+node_modules/
+.env
+cloud-monitor/
